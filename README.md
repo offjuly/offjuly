@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...www.instagram/off_july
+- 📫 How to reach me ...www.instagram.com/off_july
 
 <!---
 offjuly/offjuly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
